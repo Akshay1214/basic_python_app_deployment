@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mysql
+data:
+  host: mysql
+  name: hello-python
